@@ -1,0 +1,28 @@
+github repository + github.io 포트폴리오
+github insights 구조 알려줄게.
+traffic을 들어가보면 통계표가 나오는데
+내가 제일 처음에 게시물 올리자나? 그럼 나라는 사람으로 
+1Unique Cloners가 있다. 1clones; 1Unique Visitors,
+이 상황에서 views는 전부 나의 view, 나의 새로고침 기록이다 병신아~
+============================
+일단 github과 github.io 뭐부터해야해??
+내가 올릴건 또 뭐뭐가 있을까>???
+============================
+github 맨 처음에 사용할때
+git config user.name "$username"
+git config user.email "$email"
+============================
+github관련 노트 - 처음 new repository 할때
+init (git init 명령을 수행하면 숨김 파일인 .git 디렉토리가 생성 == 관리 파일/변경사항 원격 repository 정보들 기록될 DB)
+add (. -A 명령어는 모든 것 올리는거고 .md처럼 특정 파일만 올릴 수도 있음)
+commit -m(add와 commit은 꼭 붙어다닌다!!)
+
+#변경 내용 발행(push)하기
+remote add origin도 꼭 필요
+push master
+이순서를 꼭 지켜야하는 것 같아
+============================
+existing repository에 넣을때
+remote add origin
+push master
+
